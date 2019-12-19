@@ -1,0 +1,6 @@
+C:\Users\hiago\Desktop\hiago\TopicoEspeciais\TopicoEspeciais\bin\Debug\TopicoEspeciais.exe.config
+C:\Users\hiago\Desktop\hiago\TopicoEspeciais\TopicoEspeciais\bin\Debug\TopicoEspeciais.exe
+C:\Users\hiago\Desktop\hiago\TopicoEspeciais\TopicoEspeciais\bin\Debug\TopicoEspeciais.pdb
+C:\Users\hiago\Desktop\hiago\TopicoEspeciais\TopicoEspeciais\obj\Debug\TopicoEspeciais.csprojAssemblyReference.cache
+C:\Users\hiago\Desktop\hiago\TopicoEspeciais\TopicoEspeciais\obj\Debug\TopicoEspeciais.exe
+C:\Users\hiago\Desktop\hiago\TopicoEspeciais\TopicoEspeciais\obj\Debug\TopicoEspeciais.pdb
